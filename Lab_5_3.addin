@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+	  <Name>Лента</Name>
+	  <Assembly>"D:\source\RevitApps\Lab_5_3.dll"</Assembly>
+	  <AddInId>0C467487-F9B9-49DF-A5F2-F8000A17EA2C</AddInId>
+	  <FullClassName>Lab_5_3.Main</FullClassName>
+	  <VendorId>ADSK</VendorId>
+  </AddIn>
+</RevitAddIns>
